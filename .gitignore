@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/
+yolov8n.pt
+*.tif
+*.png
+*.jpg
+!requirements.txt
+!app.py

@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+Pillow
+numpy
+pandas
+boto3
+scipy
+streamlit-image-comparison
